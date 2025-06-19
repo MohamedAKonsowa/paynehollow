@@ -1,0 +1,34 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_B3546B9E_9C94_6431_41D0_F9D20A9D127D.text = BathRoom
+
+## Media
+
+### Image
+imlevel_BF1A2968_9C94_6411_41DE_FAE8616F4E60.url = media/panorama_A53A95EF_9CBC_2FEF_41D2_49CC5EE9A939_HS_mizbg7ju_en.webp
+
+### Title
+panorama_A539BBAB_9CBC_6417_41A4_77A63480A80B.label = ForestDoorV1
+album_CAA1BE86_9C94_5C11_41DA_4F80F86E805E_0.label = IMG_20250617_080542_00_033
+panorama_A7E36331_9CBC_E473_41CF_4F248F4158A8.label = Main house Outside
+album_CAA1BE86_9C94_5C11_41DA_4F80F86E805E.label = Photo Album IMG_20250617_080542_00_033
+panorama_A53CE658_9CBD_EC31_41D6_6802D45513D4.label = Room2V1
+panorama_A5395A26_9CBC_2411_41C3_E259567F23C5.label = Room2V2
+panorama_A5393DA7_9CBC_DC1F_41D6_CFCDFEE3E79B.label = Studio BathRoom
+panorama_A539094B_9CBC_2417_41DE_4DE627716E1A.label = Studio in
+panorama_A50D31D0_9CBC_E431_41D3_DEE7D1CC936B.label = StudioBathroomV2
+panorama_B3F9109A_9CEC_2431_41DF_5FFC4C81529C.label = TestImage 2
+panorama_A53A95EF_9CBC_2FEF_41D2_49CC5EE9A939.label = TrailPathEnd
+panorama_A53C0A00_9CBC_2411_41AC_ABB56866E8F8.label = foestdoor
+panorama_A5261715_9CBC_2C33_41D8_1BBEF001E977.label = mainRoom
+panorama_A5260A3F_9CBC_246F_41DD_D9FF2E900F62.label = mainRoomV2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
